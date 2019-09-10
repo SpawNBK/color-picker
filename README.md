@@ -13,7 +13,7 @@ small app for system tray.
 
 ## Options
 
-project date: 2012
+project date: 2012  
 color auto copy to buffer in hex
 
 
